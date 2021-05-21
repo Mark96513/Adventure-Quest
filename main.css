@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+
+body {
+    background-color: rgb(210, 228, 187);
+    margin: 0px;
+}
+
+
+.nav {
+    display: flex;
+    background-color: black;
+    height: 50px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+a {
+    color: red;
+}
+
+
+.center {
+    text-align:center;
+    font-family: 'Pattaya', sans-serif;
+}
+
+
+.large {
+    font-size: 100px;
+}
+
+
+.medium {
+    font-size: 50px;
+}
+
+
+.story{
+    font-size: 18px;
+    background-color:rgb(10, 3, 26);
+    font-family: 'Crimson Text', serif;
+    color: white;
+}
+
+
+h1{
+    color:rgb(63, 4, 60);
+    font-size:100px;
+    font-family: 'Pattaya', sans-serif;
+}
+
+
+h2{
+    color:black;
+    font-size:25px;
+}
+
+
+em{
+    background-color:rgb(10, 3, 26); 
+}
+
+
+#logoSize {
+    width:90%;
+}
+
+
+
+
